@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Finger Speed Game</string>
+    <string name="timer_text">Time</string>
+    <string name="a_thousand">1000</string>
+    <string name="button_text">TAP! TAP!</string>
+    <string name="alert_Message1">The Game is Finished, Would You Like To Reset</string>
+    <string name="alert_title1">Congratulation</string>
+    <string name="alert_Message2">Would you like to retry?</string>
+    <string name="alert_title2">Not Interesting!</string>
+</resources>
